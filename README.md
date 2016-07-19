@@ -21,10 +21,10 @@ Examples:
 * TEDx style conference with relevant guest speakers
 * Hackathon to build, ship & pitch ideas in short time frame
 
-##Practicalities
-19-21 August 2016 (end-of-phase)
+## Practicalities
+* __Date__ 19-21 August 2016 (end-of-phase)
 
-##Questions
+## Questions
 * Use of venue @DBC
 * Scale: DBC vs. Bay Area
 * Guest Speakers
@@ -33,3 +33,7 @@ Examples:
   * Venue
   * Catering
   * Prizes
+
+## Ideas for guest speakers
+* Joe Gabbia
+* 
