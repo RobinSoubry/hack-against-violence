@@ -36,9 +36,15 @@ Examples:
   * Prizes
 
 ## Ideas for themes
+#### [United Nations Global Counter Terrorism Strategy](http://www.un.org/en/counterterrorism/)
+1. Addressing conditions conducive to the spread of terrorism;
+2. Preventing and combatting terrorism;
+3. Building Member States’ capacity to prevent and combat terrorism and to strengthen the role of the United Nations system in this regard;
+4. Ensuring the respect for human rights for all and the rule of law as the fundamental basis for countering terrorism.
+
 * Media:
   * How to avoid tunnel-vision perspectives on society
-  * How to give people in hard situations a voice and sense of belonging
+  * How to give people in hard situations a voice and sense of belonging [Egyptian protests](http://www.cnn.com/2011/TECH/web/02/01/google.egypt/)
   * Reporting on human rights
 * Travel: Engaging travel experiences beyond 'the walled resort'
 * [Gaming industry](http://venturebeat.com/2016/03/28/how-the-west-fails-to-represent-muslims-correctly-in-video-games/)
@@ -51,10 +57,20 @@ Examples:
   * [TED Talk: Joe Gabbia - How AirBnb designs for trust](https://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust?language=en)
 * [Candice Morgan - Chief Diversity Officer Pinterest](https://www.linkedin.com/in/candicemorgan)
   * [What is the role of the head of diversity](https://www.quora.com/What-does-Pinterests-Head-of-Diversity-do)
+* [Ujjwal Singh - Founder SayNow - Voice of Egyptian Revolt](https://www.linkedin.com/in/ujjwal-singh-464581)
+  * [Google - Twitter collaboration in Egyptian Revolt](http://www.cnn.com/2011/TECH/web/02/01/google.egypt/)
+* [AbdelKarim Mardini - Senior Product Manager Google - Egyptian Revolt](https://www.linkedin.com/in/mardinix)
+  * [Google - Twitter collaboration in Egyptian Revolt](http://www.cnn.com/2011/TECH/web/02/01/google.egypt/)
+
 
 #### International
 * [Ngozi Adichie - Nigerian diaspora & novelist](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story?language=en)
   * [TED Talk: Ngozi Adichie - The danger of single stories](https://www.linkedin.com/in/funkeabimbola)
+
+#### General idea list
+* United Nations: Ultimate discussion platform of nations
+* Twitter: Enabler for local 
+
 
 ## Ideas for sponsors & partners
 * Organization
