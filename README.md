@@ -78,8 +78,14 @@ Examples:
   * [Devpost](http://devpost.com/hackathons)
   * [Hack For Social Good](http://www.hackforsocialgood.org/)
   * [Creative Currency](http://creative-currency.org/)
+  * [Silicon Valley Forum](http://www.siliconvalleyforum.com/)
 
 * Media
   * [Techcrunch](https://techcrunch.com/)
   * [Mashable](http://mashable.com/)
   * [De Tijd / L'Echo](http://www.tijd.be/home)
+
+* Other TBD
+  * Uber - Give promo-codes
+  * Eventbrite - Promotion
+  * Wework
