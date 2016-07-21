@@ -73,19 +73,28 @@ Examples:
 
 
 ## Ideas for sponsors & partners
-* Organization
+#### Organization
   * [AngelHack](http://angelhack.com/)
   * [Devpost](http://devpost.com/hackathons)
   * [Hack For Social Good](http://www.hackforsocialgood.org/)
   * [Creative Currency](http://creative-currency.org/)
   * [Silicon Valley Forum](http://www.siliconvalleyforum.com/)
 
-* Media
+#### Media
   * [Techcrunch](https://techcrunch.com/)
   * [Mashable](http://mashable.com/)
   * [De Tijd / L'Echo](http://www.tijd.be/home)
 
-* Other TBD
+#### Catering
+  * Newtree
+    * Sandwiches & Salads
+    * Goodies (chocolate bars)
+    * __Contact:__ Stephanie Tang (via Robin Soubry)
+  * Whole Foods
+    * General Snacks & Drinks
+    * __Contact:__ Justing Wong?
+
+#### Other TBD
   * Uber - Give promo-codes
   * Eventbrite - Promotion
   * Wework
