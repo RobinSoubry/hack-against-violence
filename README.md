@@ -22,18 +22,25 @@ Examples:
 * Hackathon to build, ship & pitch ideas in short time frame
 
 ## Practicalities
-* __Date__ 19-21 August 2016 (end-of-phase)
+* __Target Date__ 19-21 August 2016 (end-of-phase)
 
-## Questions
-* Use of venue @DBC
-* Scale: DBC vs. Bay Area
-* Guest Speakers
-* Sponsors & Partners
+## Discussion Points
+* Format + Scale
+* Commitment level + 'organization committee'
+* Ideas & contacts for guest speakers
+* Ideas & contacts for sponsors & partners
   * Media
-  * Venue
+  * (Venue) - DBC
   * Catering
   * Prizes
 
 ## Ideas for guest speakers
-* Joe Gabbia
-* 
+#### Silicon Valley
+* [Joe Gabbia - CPO & Co-founder AirBnb](https://www.linkedin.com/in/jgebbia)
+  * [TED Talk: Joe Gabbia - How AirBnb designs for trust](https://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust?language=en)
+* [Candice Morgan - Chief Diversity Officer Pinterest](https://www.linkedin.com/in/candicemorgan)
+  * [What is the role of the head of diversity](https://www.quora.com/What-does-Pinterests-Head-of-Diversity-do)
+
+#### International
+* [Ngozi Adichie - Nigerian diaspora & novelist](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story?language=en)
+  * [TED Talk: Ngozi Adichie - The danger of single stories](https://www.linkedin.com/in/funkeabimbola)
