@@ -48,7 +48,6 @@ Examples:
   * Reporting on human rights
 * Travel: Engaging travel experiences beyond 'the walled resort'
 * [Gaming industry](http://venturebeat.com/2016/03/28/how-the-west-fails-to-represent-muslims-correctly-in-video-games/)
-* Fintech: How to track suspicious transactions
 
 
 ## Ideas for guest speakers
@@ -61,31 +60,49 @@ Examples:
   * [Google - Twitter collaboration in Egyptian Revolt](http://www.cnn.com/2011/TECH/web/02/01/google.egypt/)
 * [AbdelKarim Mardini - Senior Product Manager Google - Egyptian Revolt](https://www.linkedin.com/in/mardinix)
   * [Google - Twitter collaboration in Egyptian Revolt](http://www.cnn.com/2011/TECH/web/02/01/google.egypt/)
-
+* [Xavier Damman - Founder Open Collective & Social Entrepreneur](https://www.linkedin.com/in/xavierdamman)
+  * [TEDxBrussels Talk - How social media is changing media](http://tedxtalks.ted.com/video/Xavier-Damman-at-TEDxBrussels)
+* [Dries Buytaert - Founder Drupal & CTO Acquia](https://www.linkedin.com/in/buytaert)
+  * [Personal Blog](http://buytaert.net/)
 
 #### International
 * [Ngozi Adichie - Nigerian diaspora & novelist](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story?language=en)
   * [TED Talk: Ngozi Adichie - The danger of single stories](https://www.linkedin.com/in/funkeabimbola)
+* [Aziz Abu Sarah](https://www.facebook.com/azizabusarah/)
+  * [TED Talk: Aziz Abu Sarah - For more tolerance we need more tourism](http://www.ted.com/talks/aziz_abu_sarah_for_more_tolerance_we_need_more_tourism)
 
 #### General idea list
 * United Nations: Ultimate discussion platform of nations
-* Twitter: Enabler for local 
+* Twitter: Enabler for local communication in conflict areas
 
 
 ## Ideas for sponsors & partners
-* Organization
+#### Organization
   * [AngelHack](http://angelhack.com/)
   * [Devpost](http://devpost.com/hackathons)
   * [Hack For Social Good](http://www.hackforsocialgood.org/)
   * [Creative Currency](http://creative-currency.org/)
   * [Silicon Valley Forum](http://www.siliconvalleyforum.com/)
 
-* Media
+#### Media
   * [Techcrunch](https://techcrunch.com/)
   * [Mashable](http://mashable.com/)
   * [De Tijd / L'Echo](http://www.tijd.be/home)
 
-* Other TBD
+#### Technology
+* IBM (Watson)
+
+
+#### Catering
+  * Newtree
+    * Sandwiches & Salads
+    * Goodies (chocolate bars)
+    * __Contact:__ Stephanie Tang (via Robin Soubry)
+  * Whole Foods
+    * General Snacks & Drinks
+    * __Contact:__ Justing Wong?
+
+#### Other TBD
   * Uber - Give promo-codes
   * Eventbrite - Promotion
   * Wework
