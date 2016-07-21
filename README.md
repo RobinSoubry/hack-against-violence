@@ -29,10 +29,12 @@ Examples:
 * Commitment level + 'organization committee'
 * Ideas & contacts for guest speakers
 * Ideas & contacts for sponsors & partners
+  * Organization
   * Media
   * (Venue) - DBC
   * Catering
   * Prizes
+
 
 ## Ideas for guest speakers
 #### Silicon Valley
@@ -44,3 +46,15 @@ Examples:
 #### International
 * [Ngozi Adichie - Nigerian diaspora & novelist](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story?language=en)
   * [TED Talk: Ngozi Adichie - The danger of single stories](https://www.linkedin.com/in/funkeabimbola)
+
+## Ideas for sponsors & partners
+* Organization
+  * [AngelHack](http://angelhack.com/)
+  * [Devpost](http://devpost.com/hackathons)
+  * [Hack For Social Good](http://www.hackforsocialgood.org/)
+  * [Creative Currency](http://creative-currency.org/)
+
+* Media
+  * [Techcrunch](https://techcrunch.com/)
+  * [Mashable](http://mashable.com/)
+  * [De Tijd / L'Echo](http://www.tijd.be/home)
