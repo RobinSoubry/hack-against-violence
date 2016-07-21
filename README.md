@@ -18,7 +18,7 @@ Examples:
 * Idea generation for military purposes
 
 ### Format
-* TEDx style conference with relevant guest speakers
+* TEDx style conference with relevant guest speakers & panel discussions
 * Hackathon to build, ship & pitch ideas in short time frame
 
 ## Practicalities
@@ -36,9 +36,13 @@ Examples:
   * Prizes
 
 ## Ideas for themes
-* Media: How to avoid tunnel-vision perspectives on society
+* Media:
+  * How to avoid tunnel-vision perspectives on society
+  * How to give people in hard situations a voice and sense of belonging
+  * Reporting on human rights
 * Travel: Engaging travel experiences beyond 'the walled resort'
-
+* [Gaming industry](http://venturebeat.com/2016/03/28/how-the-west-fails-to-represent-muslims-correctly-in-video-games/)
+* Fintech: How to track suspicious transactions
 
 
 ## Ideas for guest speakers
