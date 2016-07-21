@@ -27,6 +27,8 @@ Examples:
 ## Discussion Points
 * Format + Scale
 * Commitment level + 'organization committee'
+* Themes
+* Project name
 * Ideas & contacts for guest speakers
 * Ideas & contacts for sponsors & partners
   * Organization
@@ -35,11 +37,18 @@ Examples:
   * Catering
   * Prizes
 
+## To Do
+* Make proposal for DBC
+* Draft blurb for hackathon (angel-hack, eventbrite, etc.)
+* Make back of the enveloppe calculations on costs
+* Contact partners & sponsors
+
+
 ## Ideas for themes
 #### [United Nations Global Counter Terrorism Strategy](http://www.un.org/en/counterterrorism/)
 1. Addressing conditions conducive to the spread of terrorism;
 2. Preventing and combatting terrorism;
-3. Building Member States’ capacity to prevent and combat terrorism and to strengthen the role of the United Nations system in this regard;
+3. Building Member States’ capacity to prevent and combat terrorism and to strengthen the role of the United Nations system in this regard
 4. Ensuring the respect for human rights for all and the rule of law as the fundamental basis for countering terrorism.
 
 * Media:
