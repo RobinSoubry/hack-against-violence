@@ -35,6 +35,11 @@ Examples:
   * Catering
   * Prizes
 
+## Ideas for themes
+* Media: How to avoid tunnel-vision perspectives on society
+* Travel: Engaging travel experiences beyond 'the walled resort'
+
+
 
 ## Ideas for guest speakers
 #### Silicon Valley
