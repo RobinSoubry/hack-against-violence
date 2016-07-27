@@ -116,8 +116,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
   color: white;
-  background-color: #18abb5;
-  border-color: #18abb5;
+  background-color: #0099cc;
+  border-color: #0099cc;
 }
 .btn-xl:active,
 .btn-xl.active,
@@ -139,8 +139,8 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  background-color: #18abb5;
-  border-color: #18abb5;
+  background-color: #0099cc;
+  border-color: #0099cc;
 }
 .btn-xl .badge {
   color: #18abb5;
@@ -300,7 +300,7 @@ section h3.section-subheading {
     padding: 150px 0;
   }
 }
-.service-heading {
+.schedule-heading {
   margin: 15px 0;
   text-transform: none;
 }
