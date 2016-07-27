@@ -552,7 +552,7 @@ section h3.section-subheading {
 .team-member p {
   margin-top: 0;
 }
-aside.clients img {
+section.sponsors img {
   margin: 50px auto;
 }
 section#contact {
@@ -754,4 +754,8 @@ body {
 
 .dbc-color{
   color:#18abb5;
+}
+
+.description{
+  text-align: left;
 }
