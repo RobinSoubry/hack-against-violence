@@ -2,6 +2,7 @@
 
 ## Why?
 Increasing polarisation of societies across the world, leading to tunnel vision
+
 Examples:
 * Rise of populism (Donald Trump, Marine LePen, Geert Wilders, …)
 * Terrorism
