@@ -11,7 +11,7 @@ body {
   color: #777777;
 }
 .text-primary {
-  color: #18abb5;
+  color: #0a7379;
 }
 p {
   font-size: 14px;
@@ -28,7 +28,7 @@ a.active {
   outline: none;
 }
 a {
-  color: #18abb5;
+  color: #0a7379;
 }
 a:hover,
 a:focus,
@@ -57,8 +57,8 @@ h6 {
 }
 .btn-primary {
   color: white;
-  background-color: #18abb5;
-  border-color: #18abb5;
+  background-color: #0a7379;
+  border-color: #0a7379;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -69,8 +69,8 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #18abb5;
-  border-color: #18abb5;
+  background-color: #0a7379;
+  border-color: #0a7379;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -92,17 +92,17 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #18abb5;
-  border-color: #18abb5;
+  background-color: #0a7379;
+  border-color: #0a7379;
 }
 .btn-primary .badge {
-  color: #18abb5;
+  color: #0a7379;
   background-color: white;
 }
 .btn-xl {
   color: white;
-  background-color: #18abb5;
-  border-color: #18abb5;
+  background-color: #0a7379;
+  border-color: #0a7379;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -143,7 +143,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: #0099cc;
 }
 .btn-xl .badge {
-  color: #18abb5;
+  color: #0a7379;
   background-color: white;
 }
 .navbar-custom {
@@ -152,7 +152,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-custom .navbar-brand{
-  color:#18abb5;
+  color:#0a7379;
   font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
@@ -166,8 +166,8 @@ fieldset[disabled] .btn-xl.active {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-custom .navbar-toggle {
-  background-color: #18abb5;
-  border-color: #18abb5;
+  background-color: #0a7379;
+  border-color: #0a7379;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   color: white;
@@ -175,7 +175,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18abb5;
+  background-color: #0a7379;
 }
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -186,18 +186,18 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #18abb5;
+  color: #0a7379;
   outline: none;
 }
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background-color: #18abb5;
+  background-color: #0a7379;
 }
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: #18abb5;
+  background-color: #0a7379;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -228,7 +228,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/header-bg2.jpg');
+  background-image: url('../img/header-bg3.png');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -238,6 +238,7 @@ header {
   -o-background-size: cover;
   text-align: center;
   color: white;
+  text-align: right;
 }
 header .intro-text {
   padding-top: 100px;
@@ -423,7 +424,7 @@ section h3.section-subheading {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: #18abb5;
+  background-color: #0a7379;
   color: white;
   border-radius: 100%;
   border: 7px solid #f1f1f1;
@@ -578,7 +579,7 @@ section#contact .form-group textarea.form-control {
   height: 236px;
 }
 section#contact .form-control:focus {
-  border-color: #18abb5;
+  border-color: #0a7379;
   box-shadow: none;
 }
 section#contact ::-webkit-input-placeholder {
@@ -647,7 +648,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #18abb5;
+  background-color: #0a7379;
 }
 .btn:focus,
 .btn:active,
@@ -731,11 +732,11 @@ ul.social-buttons li a:active {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: #18abb5;
+  background: #0a7379;
 }
 ::selection {
   text-shadow: none;
-  background: #18abb5;
+  background: #0a7379;
 }
 img::selection {
   background: transparent;
@@ -744,7 +745,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #18abb5;
+  webkit-tap-highlight-color: #0a7379;
 }
 
 .calendar-text {
@@ -753,7 +754,7 @@ body {
   }
 
 .dbc-color{
-  color:#18abb5;
+  color:#0a7379;
 }
 
 .description{
