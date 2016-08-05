@@ -34,7 +34,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #fec503;
+  color: #0a7379;
 }
 h1,
 h2,
@@ -160,7 +160,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: #fec503;
+  color: #0a7379;
 }
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
@@ -245,8 +245,8 @@ header .intro-text {
   padding-bottom: 50px;
 }
 header .intro-text .intro-lead-in {
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-style: italic;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-style: italic;*/
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
@@ -265,8 +265,8 @@ header .intro-text .intro-heading {
     padding-bottom: 200px;
   }
   header .intro-text .intro-lead-in {
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-style: italic;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /*font-style: italic;*/
     font-size: 40px;
     line-height: 40px;
     margin-bottom: 25px;
