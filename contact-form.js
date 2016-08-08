@@ -3,7 +3,7 @@ var message = "";
 $("#sendMessage").on("click", function() {
     message = $("#contactform").serialize();
     $.ajax({
-        url: "//formspree.io/robin.soubry@gmail.com", 
+        url: "//formspree.io/info@hackagainstviolence.com", 
         method: "POST",
         data: {message: message},
         dataType: "json"
