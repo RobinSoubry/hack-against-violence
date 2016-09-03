@@ -760,3 +760,7 @@ body {
 .description{
   text-align: left;
 }
+
+.profile-pic{
+  border-radius: 50%;
+}
