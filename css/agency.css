@@ -764,3 +764,7 @@ body {
 .profile-pic{
   border-radius: 50%;
 }
+
+.speaker{
+  height: 730px;
+}
