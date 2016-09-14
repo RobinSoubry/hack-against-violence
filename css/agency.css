@@ -770,5 +770,13 @@ body {
 }
 
 .breakout{
-  height: 500px;
+  height: 750px;
+}
+
+.breakout-pic{
+  height: 250px;
+}
+
+.breakout-logo{
+  height: 100px;
 }
