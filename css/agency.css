@@ -305,7 +305,7 @@ section h3.section-subheading {
   margin: 15px 0;
   text-transform: none;
 }
-#portfolio .portfolio-item {
+#portfolio .mitem {
   margin: 0 0 15px;
   right: 0;
 }
@@ -770,5 +770,13 @@ body {
 }
 
 .breakout{
-  height: 500px;
+  height: 750px;
+}
+
+.breakout-pic{
+  height: 250px;
+}
+
+.breakout-logo{
+  height: 100px;
 }
